@@ -27,7 +27,7 @@ Welcome to my GitHub portfolio! This repository showcases my skills and expertis
    - **Feature Documentation:** In-depth descriptions of features, including their business value and implementation details.  
    - **User Stories & Personas:** Examples of user-centered design and Agile-driven processes.  
    - **Backlog Management:** Techniques and tools used for managing tasks in JIRA and Confluence.  
-   - **Case Studies:** NDC Integration and Digital Wallet for an Online Travel Agency (OTA).  
+   - **Case Studies:** NDC Integration and Digital Wallet for an Online Travel Agency (OTA), Revenue geenration from Add on sales, Implemented a basic CRM version, Customers Tickets categorization uisng AI, Migration from one DB to another DB, UI and UX projects.  
 
    **Specialties:**
    - Cross-functional collaboration with engineering, marketing, and operations teams.  
