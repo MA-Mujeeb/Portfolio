@@ -1,5 +1,5 @@
 
-# 📝 Technical Documentation & Product Management Portfolio
+# 📝 Product Management & Technical Documentation Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my skills and expertise in **Technical Documentation** and **Product Management**, with a focus on delivering precise, effective, and user-centric solutions.
 
