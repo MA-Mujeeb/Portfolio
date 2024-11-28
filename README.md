@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! This repository showcases my skills and expertis
 
 ### 1. **Technical Documentation**  
    A collection of well-structured, detailed, and actionable documents for software products and technical tools:
-   - **API Documentation:** Developed using Swagger, Postman and Word for seamless developer onboarding, shared with B2B partners, Product managers.  
+   - **API Documentation:** Developed using Swagger, Postman and Word for seamless developer onboarding, shared with B2B partners, Product managers. Will share my samples if requested.
    - **User Manuals:** Guides tailored for technical and non-technical audiences.  
    - **SOPs:** Comprehensive Standard Operating Procedures for internal workflows.  
    - **Cloud Documentation:** Examples from AWS, GFS and Azure-based projects. Will share the samples if needed 
