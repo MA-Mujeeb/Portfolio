@@ -9,11 +9,13 @@ Welcome to my GitHub portfolio! This repository showcases my skills and expertis
 
 ### 1. **Technical Documentation**  
    A collection of well-structured, detailed, and actionable documents for software products and technical tools:
-   - **API Documentation:** Developed using Swagger for seamless developer onboarding.  
+   - **API Documentation:** Developed using Swagger, Postman and Word for seamless developer onboarding, shared with B2B partners, Product managers.  
    - **User Manuals:** Guides tailored for technical and non-technical audiences.  
    - **SOPs:** Comprehensive Standard Operating Procedures for internal workflows.  
-   - **Cloud Documentation:** Examples from AWS and Azure-based projects.  
-   - **Code Documentation:** Clean and effective explanations of C#, ASP.NET, and related frameworks.  
+   - **Cloud Documentation:** Examples from AWS, GFS and Azure-based projects. Will share the samples if needed 
+   - **Code Documentation:** Clean and effective explanations of C#, ASP.NET, and related frameworks.
+   - **Installation guides:**  Can take up the projects easily.
+ 
 
    **Notable Highlights:**
    - Focus on clarity, consistency, and adherence to industry standards.
@@ -39,6 +41,14 @@ Welcome to my GitHub portfolio! This repository showcases my skills and expertis
 - **Project Management Tools:** JIRA, Asana, and Trello.  
 - **Programming:** C#, ASP.NET, and basic scripting for technical documentation.  
 - **Cloud Expertise:** Familiarity with AWS and Azure environments.  
+- **Domains:** Travel Technology, E-commerce, and Telecom.
+
+- ## 🛠️Domains and Projects
+
+- **Documentation Tools:** Swagger, Confluence, Markdown, MSVisio and MS Word.  
+- **Project Management Tools:** JIRA, Asana, and Trello.  
+- **Programming:** C#, ASP.NET, and basic scripting for technical documentation.  
+- **Cloud Expertise:** Familiarity with AWS and Azure environments.  
 - **Domains:** Travel Technology, E-commerce, and Telecom.  
 
 ---
@@ -56,7 +66,7 @@ This portfolio serves as:
 
 - **Email:** [mujeebba8@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/ma-m-288a63181/]  
-- **Portfolio Website:** [Your Website Link (if available)]  
+- **Portfolio Website:** [https://github.com/MA-Mujeeb/Portfolio]  
 
 Feel free to explore, comment, and reach out with any feedback or opportunities!  
 
