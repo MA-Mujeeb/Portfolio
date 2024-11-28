@@ -54,8 +54,8 @@ This portfolio serves as:
 
 ## 📬 Contact  
 
-- **Email:** [Your Email Address]  
-- **LinkedIn:** [Your LinkedIn Profile]  
+- **Email:** [mujeebba8@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/ma-m-288a63181/]  
 - **Portfolio Website:** [Your Website Link (if available)]  
 
 Feel free to explore, comment, and reach out with any feedback or opportunities!  
