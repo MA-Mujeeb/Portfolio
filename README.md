@@ -43,13 +43,16 @@ Welcome to my GitHub portfolio! This repository showcases my skills and expertis
 - **Cloud Expertise:** Familiarity with AWS and Azure environments.  
 - **Domains:** Travel Technology, E-commerce, and Telecom.
 
-- ## 🛠️Domains and Projects
+- ## 🛠️Domains
 
-- **Documentation Tools:** Swagger, Confluence, Markdown, MSVisio and MS Word.  
-- **Project Management Tools:** JIRA, Asana, and Trello.  
-- **Programming:** C#, ASP.NET, and basic scripting for technical documentation.  
-- **Cloud Expertise:** Familiarity with AWS and Azure environments.  
-- **Domains:** Travel Technology, E-commerce, and Telecom.  
+- **E commerce:**  
+- **Payment Gateways:**  
+- **Telecom:**    
+- **Insurance:**  
+- **ERP**
+- **Travel domain**
+- **Edtech**
+- **Human Resources**
 
 ---
 
